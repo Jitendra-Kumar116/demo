@@ -1,4 +1,4 @@
 # demo
 Demo repository
 <br>
-Auther - Jitendra Kumar
+Auther - JitendSra Kumar gupta
